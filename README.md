@@ -1,0 +1,2 @@
+# full_stack_web_dev-reimagined
+HTML, CSS, GIT, GITHUB, JAVASCRIPT, REACT, ANGULAR, VUE, SVELTE, NODE, MONGO DB, API
